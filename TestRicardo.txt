@@ -1,0 +1,16 @@
+Test desde la computadora de ricardo
+
+ Volume Serial Number is 9685-0F91
+
+ Directory of C:\Users\Ricardo Dub¢n\Desktop\PracticasIFase2
+
+10/18/2018  01:09 PM    <DIR>          .
+10/18/2018  01:09 PM    <DIR>          ..
+10/18/2018  01:08 PM                25 bTest1.txt
+10/18/2018  01:08 PM                25 bTest2.txt
+10/18/2018  01:08 PM                34 HolaMundo1.txt
+10/18/2018  01:08 PM               545 RaulTest
+10/18/2018  01:08 PM                50 README.md
+10/18/2018  01:09 PM                 0 TestRicardo.txt
+               6 File(s)            679 bytes
+               2 Dir(s)  512,530,780,160 bytes free
